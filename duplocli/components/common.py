@@ -3,6 +3,7 @@ import sys
 import json
 import click
 import requests
+import time
 from os.path import expanduser
 home = expanduser("~")
 
